@@ -27,8 +27,6 @@ that didn't work.
 - [**edgecore-5610-reverse-engineering**](https://github.com/wrightca1/edgecore-5610-reverse-engineering)
   — register maps, table formats, SerDes init, L2/L3 write paths and the S-channel protocol
   for the BCM56846.
-- [**swi-tools**](https://github.com/wrightca1/swi-tools) — scripts for handling Arista SWI
-  and SWIX files.
 
 **Elsewhere**
 
